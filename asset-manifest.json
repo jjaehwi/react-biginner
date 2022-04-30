@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/jjaehwi/react-biginner/static/css/main.6683479f.css",
-    "main.js": "/jjaehwi/react-biginner/static/js/main.8eb862e3.js",
-    "index.html": "/jjaehwi/react-biginner/index.html",
-    "main.6683479f.css.map": "/jjaehwi/react-biginner/static/css/main.6683479f.css.map",
-    "main.8eb862e3.js.map": "/jjaehwi/react-biginner/static/js/main.8eb862e3.js.map"
+    "main.css": "/react-biginner/static/css/main.6683479f.css",
+    "main.js": "/react-biginner/static/js/main.8eb862e3.js",
+    "index.html": "/react-biginner/index.html",
+    "main.6683479f.css.map": "/react-biginner/static/css/main.6683479f.css.map",
+    "main.8eb862e3.js.map": "/react-biginner/static/js/main.8eb862e3.js.map"
   },
   "entrypoints": [
     "static/css/main.6683479f.css",
